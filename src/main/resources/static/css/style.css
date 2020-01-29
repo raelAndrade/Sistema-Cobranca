@@ -1,0 +1,35 @@
+.navbar {
+	background: #2E9AFE;
+}
+
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.title-logo {
+	color: #FFFFFF;
+	position: absolute;
+	margin-top: -25px;
+	left: 60px;
+	font-family: Arial;
+}
+
+.panel-default {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.alert {
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.link-panel{
+	float: right;
+	padding: 0px;
+}
+
+.titulo-panel{
+	float: left;
+	padding-top: 2px; 
+}
